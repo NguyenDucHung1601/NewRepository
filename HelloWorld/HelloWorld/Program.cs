@@ -1,4 +1,6 @@
-﻿using Internal;
+﻿using System.Reflection.Emit;
+using System.Data;
+using Internal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +13,10 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Nguyen Duc Hung");
-            Console.WriteLine("Hoc vien Ky thuat Quan su");
+            for(int i=0; i<5; i++)
+            {
+                Console.WriteLine("Hello");
+            }
         }
     }
 }
