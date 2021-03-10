@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Internal;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +12,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Nguyen Duc Hung");
+            Console.WriteLine("Hoc vien Ky thuat Quan su");
         }
     }
 }
