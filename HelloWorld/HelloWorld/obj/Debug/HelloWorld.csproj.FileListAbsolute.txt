@@ -12,3 +12,10 @@ C:\Users\ADMIN\OneDrive\Máy tính\GitDemo\NewRepository\HelloWorld\HelloWorld\o
 C:\Users\ADMIN\OneDrive\Máy tính\GitDemo\NewRepository\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\OneDrive\Máy tính\GitDemo\NewRepository\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\ADMIN\OneDrive\Máy tính\GitDemo\NewRepository\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Demo Jenkins Git\gitConsole\NewRepository\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\Demo Jenkins Git\gitConsole\NewRepository\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Demo Jenkins Git\gitConsole\NewRepository\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Demo Jenkins Git\gitConsole\NewRepository\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Demo Jenkins Git\gitConsole\NewRepository\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Demo Jenkins Git\gitConsole\NewRepository\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Demo Jenkins Git\gitConsole\NewRepository\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
